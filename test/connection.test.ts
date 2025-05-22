@@ -4953,7 +4953,7 @@ describe('Connection', function () {
       );
       // See scripts/fixtures/legacy-token-test-token-owner.json
       const testOwnerKeypair = Keypair.fromSecretKey(
-        // Public key: `AVGuygVeBmbYiJ47V7tgBNLSukNqW7pWZYJsKUNWhHpc`
+        // Public key: ``
         new Uint8Array([
           153, 120, 247, 45, 160, 119, 144, 219, 220, 209, 73, 91, 210, 102, 31,
           136, 155, 12, 68, 27, 226, 215, 61, 214, 10, 245, 247, 180, 236, 63,
